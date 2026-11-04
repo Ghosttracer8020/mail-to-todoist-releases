@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Mail to Todoist</title>
+    <item>
+      <title>Version 1.2</title>
+      <pubDate>Wed, 04 Nov 2026 12:07:54 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Neu: Updates kommen automatisch, die App fragt vorher nach</li><li>Ablegen: Postfächer werden beim Öffnen der Einstellungen neu eingelesen, Favoriten und Ansicht „Alle Postfächer“</li><li>Nach „An Todoist“ wird die ganze Konversation abgelegt, schneller</li><li>@/#-Vervollständigung im Zusatzfeld, nächste Mail wird nach dem Ablegen markiert</li></ul>]]></description>
+      <enclosure url="https://github.com/Ghosttracer8020/mail-to-todoist-releases/releases/download/v1.2/Mail-to-Todoist-1.2.zip" length="3372132" type="application/octet-stream" sparkle:edSignature="Lk3x+ebrseFB3ZbjegYUaCa7LyQ5v3YWVWS1f8kO/kK07cFAJVyQshlnxAyipAGz3AWs6dp8HjWNioIXGnG7BQ=="/>
+    </item>
+  </channel>
+</rss>
