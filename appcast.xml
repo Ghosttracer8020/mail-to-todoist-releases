@@ -3,6 +3,15 @@
   <channel>
     <title>Mail to Todoist</title>
     <item>
+      <title>Version 1.4</title>
+      <pubDate>Fri, 06 Nov 2026 21:22:45 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Behoben: Liegt eine Mail doppelt im Eingang (gleiche Nachricht zweimal), blieb sie beim Ablegen liegen. Jetzt werden alle Kopien abgelegt.</li></ul>]]></description>
+      <enclosure url="https://github.com/Ghosttracer8020/mail-to-todoist-releases/releases/download/v1.4/Mail-to-Todoist-1.4.zip" length="3457398" type="application/octet-stream" sparkle:edSignature="QjxVCSEzPj69CXDhg+wv2lCyBjQ6E6Z052Mzg8OD9XkjHKIhPmeBtH2Q+jN4IhLRpk3lIhNHcrXLePGJHL+mAw=="/>
+    </item>
+    <item>
       <title>Version 1.3</title>
       <pubDate>Fri, 06 Nov 2026 08:08:57 +0000</pubDate>
       <sparkle:version>3</sparkle:version>
