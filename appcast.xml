@@ -3,6 +3,15 @@
   <channel>
     <title>Mail to Todoist</title>
     <item>
+      <title>Version 1.3</title>
+      <pubDate>Fri, 06 Nov 2026 08:08:57 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Neu: „Nur ein Postfach zum Ablegen“ (Einstellungen → Ablegen). Wer nur in ein Postfach sortiert, wählt es einmal aus; das Ablegen-Kürzel verschiebt die markierte Mail dann sofort dorthin, ohne Fenster. Das Ablegen-Fenster bleibt über das Menü erreichbar.</li></ul>]]></description>
+      <enclosure url="https://github.com/Ghosttracer8020/mail-to-todoist-releases/releases/download/v1.3/Mail-to-Todoist-1.3.zip" length="3453182" type="application/octet-stream" sparkle:edSignature="wmu/CrySMHiYL12HQDC3IotKHyqlb4ELBogXcnfknFGTK098luXS4l75IGa8G5dzsvlyWXWOL5yLFOFhM3WHAQ=="/>
+    </item>
+    <item>
       <title>Version 1.2</title>
       <pubDate>Wed, 04 Nov 2026 12:07:54 +0000</pubDate>
       <sparkle:version>2</sparkle:version>
