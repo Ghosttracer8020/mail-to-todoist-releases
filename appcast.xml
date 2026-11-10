@@ -3,6 +3,15 @@
   <channel>
     <title>Mail to Todoist</title>
     <item>
+      <title>Version 1.5</title>
+      <pubDate>Tue, 10 Nov 2026 14:22:53 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>An Todoist mit Auto-Ablage: Die Mail ist sofort abgelegt (unter einer Sekunde), die Aufgabe entsteht im Hintergrund.</li><li>Schnell hintereinander gedrückte Kürzel gehen nicht mehr verloren.</li><li>Klappt die Aufgabe in Todoist nicht, kommt die Mail zurück in den Eingang und eine Meldung erscheint.</li></ul>]]></description>
+      <enclosure url="https://github.com/Ghosttracer8020/mail-to-todoist-releases/releases/download/v1.5/Mail-to-Todoist-1.5.zip" length="3480215" type="application/octet-stream" sparkle:edSignature="axKAll6Mb1VfNSDnV2QYFY4qhxmhGTuL0w0d7bfqEKVjb2eBXDVzHCGf6h2ECzY8ysTL5EFjiVbCmOTTOT+/AQ=="/>
+    </item>
+    <item>
       <title>Version 1.4</title>
       <pubDate>Fri, 06 Nov 2026 21:22:45 +0000</pubDate>
       <sparkle:version>4</sparkle:version>
